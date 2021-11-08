@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mtoharlim
+- 👋 Hi, I’m @Min
 - 👀 I’m interested in Programmer
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on IC

@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.facebook.com/muhaimin.toharlim/"><img width="80%" src="/asset/min.png" /></a></p>
+<p align="center"><a href="https://www.facebook.com/muhaimin.toharlim/"><img width="1000%" src="/asset/min.png" /></a></p>
 
 <br />
 

@@ -24,13 +24,13 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <code><img height="40" src="https://eaceto.dev/wp-content/uploads/2020/03/arduino_logo-1.png"></code>
 <code><img height="40" src="https://fontmeme.com/images/adobe-may-2020.png"></code></p>    
 
-<code>_________![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight)<code>____ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Top Repositories
 
 
-<code>_________<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mtoharlim&repo=Data-visualization-Graph&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">

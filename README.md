@@ -6,7 +6,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Pondok Jakar](https://www.facebook.com/muhaimin.toharlim/)
+- 💼 FrontEnd Engineer at [Taveewitya School]([https://www.facebook.com/muhaimin.toharlim/](https://www.facebook.com/profile.php?id=100041921347035))
 
 - 📈 Built lesson, jjupyter nb and more, **10** hits • **4** stars on GitHub
 

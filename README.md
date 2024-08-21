@@ -19,7 +19,7 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 <p align="center"><code><img height="40" src="https://softwareengineeringdaily.com/wp-content/uploads/2018/07/jupyter-logo-featured-image.png"></code>
 <code><img height="40" src="https://th.bing.com/th/id/OIP.i0f55cSkOYR-y81DQK9WEQHaDI?pid=ImgDet&rs=1"></code>
 <code><img height="40" src="https://www.silios.gr/wp-content/uploads/2019/06/flutter-1024x486.png"></code>
-<code><img height="40" src="https://eaceto.dev/wp-content/uploads/2020/03/arduino_logo-1.png"></code>
+<code><img height="40" src="https://logodownload.org/wp-content/uploads/2019/03/arduino-logo-0.png"></code>
 <code><img height="40" src="https://fontmeme.com/images/adobe-may-2020.png"></code></p>    
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

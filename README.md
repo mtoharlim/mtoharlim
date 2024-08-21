@@ -10,8 +10,6 @@ I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
 - 📈 Built lesson, jjupyter nb and more, **10** hits • **4** stars on GitHub
 
-- ❤️ I love writing Python, and building fun experiments on type-level
-
 - 💬 Ask me about anything [here](https://www.facebook.com/muhaimin.toharlim/)
 
 

@@ -2,18 +2,6 @@
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-**About me**
-
-- 💼 FrontEnd Engineer at [Taveewitya School](https://www.facebook.com/profile.php?id=100041921347035)
-
-- 📈 Built lesson, jjupyter nb and more, **10** hits • **4** stars on GitHub
-
-- 💬 Ask me about anything [here](https://www.facebook.com/muhaimin.toharlim/)
-
-
-
 **Languages and Tools:**  
 
 <p align="center"><code><img height="40" src="https://softwareengineeringdaily.com/wp-content/uploads/2018/07/jupyter-logo-featured-image.png"></code>

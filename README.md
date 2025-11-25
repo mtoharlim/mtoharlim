@@ -10,7 +10,7 @@
 <code><img height="40" src="https://pluspng.com/img-png/arduino-logo-png-start-making-arduino-logo-free-transparent-png-img-pngkey-820x430.jpg"></code>
 <code><img height="40" src="https://fontmeme.com/images/adobe-may-2020.png"></code></p>    
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+(https://github-readme-stats.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Top Repositories

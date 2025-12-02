@@ -33,9 +33,12 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="50" alt="GIF 15" style="border-radius: 8px;" />
 </div>
 
-#### Top Langs
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&theme=tokyonight)](https://github.com/mtoharlim?tab=repositories)
-
+<div align="center">
+   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+  
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mtoharlim&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mtoharlim&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
 
 #### Top Repositories
 <a href="https://github.com/anuraghazra/github-readme-stats">
